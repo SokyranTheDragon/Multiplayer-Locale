@@ -117,6 +117,8 @@
   <MpEnablePingsSetting>Enable location pings</MpEnablePingsSetting>
   <MpPingLocButtonSetting>Ping location button</MpPingLocButtonSetting>
   <MpJumpToPingButtonSetting>Jump to ping button</MpJumpToPingButtonSetting>
+  <MpEnableCrossPlanetLayerPings>Enable pings across planet layers</MpEnableCrossPlanetLayerPings>
+  <MpEnableCrossPlanetLayerPingsDesc>Enables displaying pings from planet layers under the current one.\n\nThis may be inaccurate with certain mods, and if you encounter issues with pings displayed in wrong places - please disable this option.</MpEnableCrossPlanetLayerPingsDesc>
   <MpShowMainMenuAnimation>Show main menu animation</MpShowMainMenuAnimation>
   <MpPlayerCursorTransparency>Transparent player cursors</MpPlayerCursorTransparency>
   <MpSettingsPageGeneral>General settings</MpSettingsPageGeneral>
